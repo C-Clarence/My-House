@@ -1,1 +1,2 @@
 # My-House
+Furniture collection 
